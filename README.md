@@ -1,1 +1,1 @@
-# Kolib Software - Auth Store #
+# Kolib Software - Utils #
